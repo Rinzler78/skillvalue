@@ -51,7 +51,7 @@ namespace repetition_game
                                     }
                                     catch (Exception ex)
                                     {
-                                        Console.WriteLine();
+
                                     }
                                 }
                             }
@@ -65,15 +65,9 @@ namespace repetition_game
                             {
                                 result = currentRep;
                             }
-
-                            if (currentRep != null)
-                            {
-                                result = currentRep;
-                            }
                         }
                         catch (Exception ex)
                         {
-                            Console.WriteLine();
                             ++strIndex;
                         }
                     }

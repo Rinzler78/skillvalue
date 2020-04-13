@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumPath", "MaximumPath\MaximumPath.csproj", "{A212A54F-86DA-4C9E-9060-DFE2E4AADEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A212A54F-86DA-4C9E-9060-DFE2E4AADEBF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A212A54F-86DA-4C9E-9060-DFE2E4AADEBF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A212A54F-86DA-4C9E-9060-DFE2E4AADEBF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A212A54F-86DA-4C9E-9060-DFE2E4AADEBF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
